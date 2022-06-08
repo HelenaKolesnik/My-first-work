@@ -6,15 +6,15 @@ body {
 }
 
 .Text {
-    border-bottom: solid 5px #FF9AA2;
-    border-left: solid 5px #FF9AA2;
-    background-color: #FFB7B2;
-    color: #f8818a;
+    border-bottom: solid 5px #4eb55f;
+    border-left: solid 5px #3ba347;
+    background-color: #42b05c;
+    color: #ffffff;
     width: 45%;
     padding: 10px;
 }
 
 .img {
-    border: double 10px #FF9AA2;
+    border: double 10px #3fbb3d;
     padding: 0px;
 }
